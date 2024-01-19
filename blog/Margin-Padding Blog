@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Margin & Padding</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+</html>
+<h1>Margin & Padding</h1>
+<h2>
+  What is the difference between Margin, Border, and Padding?
+  <em>
+    In CSS, a margin is the space around an element's border, while padding is
+    the space between an element's border and the element's content. Put another
+    way, the margin property controls the space outside an element, and the
+    padding property controls the space inside an element.
+  </em>
+</h2>
+<img src="Difference-Between-Padding-and-Margin.png" alt="Padding and Margin" />
+<h3>
+  Margin, border, and padding are fundamental concepts in CSS that define the
+  layout and spacing of elements. They are part of the box model, which is a
+  fundamental structure in CSS that represents how elements are laid out in
+  terms of content, padding, border, and margin. Here's a brief explanation of
+  each: Margin: The margin is the space outside an element's border. It clears
+  an area outside the border and does not have any background color. It is used
+  to create space between elements. It doesn't influence the size or layout of
+  the element itself but affects the positioning of the element in relation to
+  other elements.
+  <img src="Screenshot from 2024-01-19 20-41-00.png" />
+</h3>
+<h4>
+  Border: The border is the actual boundary of the element. It is placed between
+  the padding and the margin. It has properties like color, style, and width
+  that can be specified. It directly influences the dimensions of the element.
+  <img src="Screenshot from 2024-01-19 20-43-16.png" />
+</h4>
+<h4>
+  Padding: The padding is the space between the content of the element and its
+  border. It clears an area around the content inside the element. It affects
+  the element's size by increasing the space between the content and the border.
+  <img src="Screenshot from 2024-01-19 20-45-58.png" alt="Padding" />
+</h4>
+<h2>
+  Margin is the space outside the border. Border is the actual boundary of the
+  element. Padding is the space between the content and the border.
+</h2>
+<img src="Screenshot from 2024-01-19 20-47-08.png" alt="Visualization" />
