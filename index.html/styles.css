@@ -1,0 +1,65 @@
+p {
+  color: rgb(39, 62, 240);
+}
+
+div {
+  background-color: lightblue;
+}
+
+h1 {
+  font-size: 16px;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+strong {
+  font-weight: bold;
+}
+
+a {
+  text-decoration: underline;
+}
+
+div {
+  border: 1px solid black;
+}
+
+p {
+  padding: 10px;
+}
+
+div {
+  margin: 20px;
+}
+
+button {
+  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+header {
+  background: linear-gradient(to right, #0fe328, #462951);
+}
+
+.container {
+  display: flex;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+}
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+.container {
+  display: flex;
+  align-items: center;
+}
+.item {
+  align-self: flex-end;
+}
+.item {
+  flex: 1;
+}
