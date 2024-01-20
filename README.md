@@ -1,1 +1,1 @@
-zakkhann.github.io
+https://zakkhann.github.io/blog/
